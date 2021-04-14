@@ -33,4 +33,4 @@
 
 
 <img src="https://i.imgur.com/qI1Jfyl.gif"  width="100%"/>
-<img align="left" src="https://i.imgur.com/BzOnbkS.gif" />
+<!--img align="left" src="https://i.imgur.com/BzOnbkS.gif" /-->
