@@ -23,10 +23,6 @@
 </p>
 
 <p align="center">
-  📫 How to reach me: <a href='mailto:muhammedsalihaydogan@gmail.com'>muhammedsalihaydogan@gmail.com</a>
-</p>
-
-<p align="center">
     Currently Working On: 
     ROS, Python, C++
     </p>
